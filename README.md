@@ -65,7 +65,6 @@ The VectorShift Pipeline Builder enables users to:
 ---
 
 ## 📂 Project Structure
-
 vectorshiftpipelinebuilder/
 │
 ├── frontend/
@@ -94,21 +93,5 @@ vectorshiftpipelinebuilder/
 
 
 ---
-
-## ▶️ How to Run the Project
-
-### 1️⃣ Start the Backend
-
-```bash
-cd backend
-uvicorn main:app --reload
-http://localhost:8000
-
-### 2 Start the Frontend
-cd frontend
-npm install
-npm start
-http://localhost:3000
-
 
 
